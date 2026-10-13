@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jordan-belfort-ai.github.io/sitemap.xml
